@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: OrangeP1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ASUS
+Specification-Title: OrangeP1
+Implementation-Vendor-Id: orangeServer
+Build-Jdk: 1.8.0_102
+Specification-Version: 0.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/OrangeP1
+Created-By: Maven Integration for Eclipse
+
